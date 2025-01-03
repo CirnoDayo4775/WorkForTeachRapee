@@ -1,0 +1,25 @@
+body,html {
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+#navhead {
+    flex: 0 auto; /* Header takes up its natural size */
+    background-color: #d3d3d3;
+}
+
+#content {
+    flex: 1 auto; /* Main content area grows and takes remaining space */
+    overflow: auto; /* Scroll bar for the content area */
+}
+
+#footer {
+    padding: 10px;
+    text-align: center;
+}
+
+html{
+    scroll-behavior: smooth;
+}

@@ -22,7 +22,7 @@ fetch('./component_folder/header.html')
             })
             .catch(error => console.error('Error:', error));
 
-        fetch('index_text/index.json') // ที่อยู่ในโฟลเดอร์ index_text
+        fetch('index_text/Publication-Text.json') // ที่อยู่ในโฟลเดอร์ index_text
             .then(response => {
                 if (!response.ok) {
                     throw new Error('Failed to fetch JSON');

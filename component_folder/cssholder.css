@@ -10,7 +10,7 @@ body,html {
     background-color: #d3d3d3;
 }
 
-#content {
+.content {
     flex: 1 auto; /* Main content area grows and takes remaining space */
     overflow: auto; /* Scroll bar for the content area */
 }

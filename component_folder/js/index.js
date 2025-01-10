@@ -30,6 +30,14 @@ fetch('./component_folder/header.html')
                 return response.json();
             })
             .then(data => {
+                document.getElementById('1left1').innerText = data.Gender;
+                document.getElementById('1left2').innerText = data.Weight;
+                document.getElementById('1left3').innerText = data.Nationality;
+                document.getElementById('1left4').innerText = data.DoB;
+                document.getElementById('1right1').innerText = data.BloodType;
+                document.getElementById('1right2').innerText = data.Height;
+                document.getElementById('1right3').innerText = data.Religion;
+                document.getElementById('1right4').innerText = data.Email;
                 document.getElementById('content').innerText = data.content;
             })
             .catch(error => {

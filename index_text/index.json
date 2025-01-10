@@ -1,3 +1,16 @@
 {
-    "content": "Home Text in 'index.json' files"
+    "content": "Home Text in 'index.json' files",
+    "address": "31 Moo 6, Makham Tia, Mueang Surat Thani District, Surat Thani 84000 Tel (66) 96-785-8545",
+    "workPlace" : "Department of Economics, Faculty of Liberal Arts and Management Sciences, Prince of Songkla University, Surat Thani Campus. 31 Moo 6, Makham Tia, Mueang Surat Thani District, Surat Thani 84000"
+  
+  ,"Name":"MR. RAPEE PHONGPARNICH"
+  ,"Gender":"Male"
+  ,"BloodType":"A"
+  ,"Weight":"76"
+  ,"Height":"178"
+  ,"Nationality":"Thai"
+  ,"Religion":"Buddhism"
+  ,"DoB":"February 15, 1983"
+  ,"Email":"rapee.p@psu.ac.th"
+  ,"":""
   }

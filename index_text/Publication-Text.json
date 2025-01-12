@@ -1,3 +1,17 @@
 {
-    "content": "Publication Text"
+    "Periodical" : {
+      "a1" : "Pongpanich, R., Ke-Chung, P & Maichum, K. (2016). The Performance Measurement of Listed Companies of Agribusiness Sector in Stock Exchange of Thailand. Agricultural Economics.  [ISI]"
+      ,"a2" : "Pongpanich, R., Ke-Chung, P & Wongchai, A. (2018). The performance measurement and productivity change of agro and food industry in stock exchange of Thailand. Agricultural Economics. [ISI]"
+      ,"a3" : "Pongpanich, R. & Ke-Chung, P. (2016). The Efficiency Measurement of Commodity Groups in Road Freight Transport of Thailand: A Slack-Base Measure of Efficiency in DEA Approach. The International journal of Business & Management, 04: 379-386."
+      ,"a4" : "Pongpanich, R. & Ke-Chung, P. (2016). The Efficiency Measurement of Container Ports in Thailand by Using DEA Windows Analysis Approach. International Journal of Innovation Research & Development, 05: 247-253."
+      ,"a5" : "Pongpanich, R. & Ke-Chung, P. (2016). Assessing the Operational Efficiency of Agricultural Cooperative in Thailand by Using Super-SBM DEA Approach. International Journal of Scientific and Research Publications, 06: 247-253."
+      ,"a6" : "Sinnarong, N., Pongpanich, R. & Tzong-Ru, L. (2015). The key factors for selecting C2C logistics companies in Thailand: an application of analytical hierarchy process and three ranking logic. International Journal of Logistics Systems and Management (IJLSM), 21-2: 242-268. [Scopus]"
+      ,"a7" : "Pongpanich, R., Ke-Chung, P. & Tzong-Ru, L. (2014). The key factors for selecting C2C Logistics Companies by using Fuzzy AHP in Thailand. Journal of Business and Management, 16-11: 75-85."
+      ,"a8" : "Phongpharnich, R., Anupong., W. (2023). The measure of airport efficiency and operational capabilities in southern Thailand. Journal of Namibian Studies: History Politics Culture 33, 1082–1103-1082–1103."
+      ,"a9" : "Thongkham, K., Meepianc, P., Sukkha, P., Bunmark, P., Naranram, P., & Phongpharnich, R. (2024). Consumer willingness to pay for Chaiya organic salted egg in smart label packaging: the case study in Surat Thani province. Business, Management and Economics Engineering, 22(1), 1–16. https://doi.org/10.3846/bmee.2024.19787"
+    },
+    "ConferenceProceeding" : {
+      "a1" : "Pongpanich, R. & Ke-Chung, P. (2014). Measuring Efficiency of Main Airports in Thailand by an Integrated DEA-AHP Method. Advanced Materials Research, 1030-1032: 2203-2206.(Conference of Advanced Materials Research)"
+      ,"a2" : "Pongpanich, R. & Ke-Chung, P. (2015). Efficiency on Agricultural Area Use Management in Thailand: A Super-SBM model in DEA Approach. (Conference of Rural Economics Society of Taiwan year 2015)"
+    }
   }

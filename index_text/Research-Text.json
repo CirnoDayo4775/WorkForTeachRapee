@@ -1,3 +1,20 @@
 {
-    "content": "Research Text"
+    "year": {
+      "a1":"2018-2019"
+      ,"a2":"2019-2022"
+      ,"a3":"2021-2022"
+      ,"a4":"2022-2023"
+      ,"a5":"2022-2023"
+      ,"a6":"2023-2024"
+      ,"a7":"2023-2024"
+    },
+    "research" : {
+      "a1": "Performance and Operation Measurement of Main Airports in Southern of Thailand during 2018-2019"
+      ,"a2":"Increasing efficiency and productivity of durian in the southern region of Thailand"
+      ,"a3":"Production of functional instant powdered beverage from Sangyod organic brown rice extract for the elderly and working-age "
+      ,"a4":"Transferring Sang-Yod rice processing technology to high-value products according to community standards3"
+      ,"a5":"Technology transfer for rice bran oil extraction increases the rice bran’s value and drives the community economy: Sustainable Organic Agriculture Community Enterprise, Ban Don Yo, Nakhon Pathom Province"
+      ,"a6":"Hub of Kratom Knowledge"
+      ,"a7":"Study of The Efficiency of ASEAN Countries Information Technology Utilization in the past decade to Determine Learning Creation Strategies in current situation"
+    }
   }

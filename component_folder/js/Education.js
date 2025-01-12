@@ -30,7 +30,12 @@ fetch('./component_folder/header.html')
                 return response.json();
             })
             .then(data => {
-                document.getElementById('content').innerText = data.content;
+                document.getElementById('box1').innerText = data.a1.year;
+                document.getElementById('box2').innerText = data.a2.year;
+                document.getElementById('box3').innerText = data.a3.year;
+                document.getElementById('boxa1').innerText = data.a1.degree;
+                document.getElementById('boxa2').innerText = data.a2.degree;
+                document.getElementById('boxa3').innerText = data.a3.degree;
             })
             .catch(error => {
                 document.getElementById('content').innerText = 'Error loading content.';

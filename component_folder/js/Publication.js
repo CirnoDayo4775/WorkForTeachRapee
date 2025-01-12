@@ -30,7 +30,17 @@ fetch('./component_folder/header.html')
                 return response.json();
             })
             .then(data => {
-                document.getElementById('content').innerText = data.content;
+                document.getElementById('box1').innerText = data.Periodical.a1;
+                document.getElementById('box2').innerText = data.Periodical.a2;
+                document.getElementById('box3').innerText = data.Periodical.a3;
+                document.getElementById('box4').innerText = data.Periodical.a4;
+                document.getElementById('box5').innerText = data.Periodical.a5;
+                document.getElementById('box6').innerText = data.Periodical.a6;
+                document.getElementById('box7').innerText = data.Periodical.a7;
+                document.getElementById('box8').innerText = data.Periodical.a8;
+                document.getElementById('box9').innerText = data.Periodical.a9;
+                document.getElementById('boxa1').innerText = data.ConferenceProceeding.a1;
+                document.getElementById('boxa2').innerText = data.ConferenceProceeding.a2;
             })
             .catch(error => {
                 document.getElementById('content').innerText = 'Error loading content.';
